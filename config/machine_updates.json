@@ -1,0 +1,22 @@
+[{
+  "state": "planned-downtime",
+  "duration": 30
+}, {
+"state": "unplanned-downtime",
+"duration": 50
+}, {
+"state": "producing",
+"duration": 20
+}, {
+"state": "planned-downtime",
+"duration": 70
+}, {
+"state": "producing",
+"duration": 25
+}, {
+"state": "unplanned-downtime",
+"duration": 15
+}, {
+"state": "producing",
+"duration": 10
+}]
